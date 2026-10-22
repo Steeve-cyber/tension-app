@@ -1,0 +1,9 @@
+.iconSurface {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 26px;
+  padding: 8px;
+  background: linear-gradient(145deg, rgba(88, 211, 192, 0.34), rgba(255, 255, 255, 0.06));
+  box-shadow: 0 14px 54px rgba(46, 207, 182, 0.2);
+}
